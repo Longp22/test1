@@ -1,9 +1,9 @@
 {
-  "name": "winXP",
+  "name": "winxp",
   "version": "0.1.0",
   "private": true,
-  "author": "ShizukuIchi <shizukuichi@gmail.com>",
-  "homepage": "https://winxp.now.sh",
+  "author": "AsLongp22vn <aslongp22vn1@gmail.com>",
+  "homepage": "https://Longp22.github.io/test1",
   "dependencies": {
     "lodash.samplesize": "^4.2.0",
     "react": "^16.8.6",
